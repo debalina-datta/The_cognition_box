@@ -22,7 +22,7 @@ phone:
 email:              
 
 # Other
-background_image:   /images/bg.jpg
+background_image:   /The_cognition_box/images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
