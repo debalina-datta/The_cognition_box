@@ -90,7 +90,7 @@ sitemap:
   									</header>
 									<h5>{{ post.readtime }}</h5>
 									
-  									<a href="{{ post.url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
   										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
