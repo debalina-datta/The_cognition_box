@@ -29,4 +29,4 @@ Thanks for visiting!
 
 **Comments Rules**
  
-comment rules
+Read about the detailed comment rules here <a href="{{ "/commentspolicy/" | absolute_url }}">here</a></li>.
