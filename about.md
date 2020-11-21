@@ -25,8 +25,3 @@ Do not worry if you do not have much prior knowledge of science (especially biol
 and beyond, but with simple explanations. I sincerely hope that you have fun reading them! 
 Thanks for visiting! 
 
-
-
-**Comments Rules**
- 
-comment rules
