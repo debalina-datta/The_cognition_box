@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About The Author
 
-<span class="image left"><img src="{{ "/images/author.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/author.jpg" | absolute_url }}" alt="" /></span>
 
 
 Hello! I’m Deb! Currently a doctoral student in biological sciences, I find myself amidst a new-found ocean of knowledge all around me. 
