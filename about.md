@@ -12,7 +12,7 @@ sitemap:
 <span class="image right"><img src="{{ "/images/author.jpg" | absolute_url }}" alt="" /></span>
 
 
-Hello! I’m Deb! Currently a doctoral student in biological sciences, I find myself amidst a new-found ocean of knowledge all around me. 
+Hello! I’m Debalina! Currently a doctoral student in biological sciences, I find myself amidst a new-found ocean of knowledge all around me. 
 Although the sail is set in a definite direction to prove myself as an able researcher, on my way, I often find myself at crossroads of 
 subjects and discover new avenues of scientific facts that are illuminating. I have realised there is so much to know in this world and 
 how important it is, that it be shared with all. 
